@@ -1,2 +1,2 @@
 # ExclusivePerks
-Website to find leading discounts from premium stores.
+Website to find leading discounts from Premium stores.
